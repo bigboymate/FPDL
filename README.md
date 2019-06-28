@@ -1,4 +1,4 @@
-# KOPDL
+# FPDL
 Ensures your freedom by making sure that your software is actually yours.
 The GPL is nice but it is a bit forceful. It may ensure the freedom of the
 user but not the developer along with it. Then there is the idea that
@@ -18,4 +18,6 @@ when they think have to, and it is simple. A mere 27 lines of text, explaining h
 is itself in the public domain as well as everything under it, projects under it can be relicensed
 (otherwise it wouldn't be truly in the public domain), and a requests section asking to keep
 sources open along with giving credit at your own discretion. Real freedom means choice. 
-There is also no limited liability clause because screw that.
+
+The reason why it looks like a manpage is because I wanted to format it but I was lazy so I just
+used groff's mdoc macros because it looked the most simple to write.
