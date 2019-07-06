@@ -1,0 +1,52 @@
+Free Public License
+
+PREAMBLE
+Ensures your freedom
+
+DEFINITIONS
+This License
+The Free Public License
+
+Interpreting Program
+a computational algorithm that, when taking in data
+that it can understand, can produce a corresponding output that a 
+computer processor or interpreter can understand. 
+
+Source Code
+typed/written instructions, created with the intention of having 
+an interpretting program that can successfully or unsuccessfully interpret the 
+afformentioned instructions act on it, that can be provided to a
+computer or computational device.
+
+Binary/Binaries
+copyable result of source code having been acted upon by
+(an) interpreting program(s).
+
+Open
+required to be provided to the user.
+
+CONDITIONS
+When a binary is distributed, and if and only if any of its corresponding source code
+has This License applied to it, the source code with This License applied to it
+must be open. Any other source code is not required to be open.
+
+PERMISSIONS
+Permission is hereby granted to do what you will with the source code under This
+License as long as the above conditions are met and provided that This License
+is either in the directory and/or parent directory or if the following is somewhere
+in the source code
+
+	This is Free Software under the FPL
+
+in order to apply This License.
+This License is in the public domain. Therefore anyone may do what they will
+with This License.
+
+NO WARRANTY & LIMITED LIABILITY
+The software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement.
+in no event shall the authors be liable for any claim, damages or
+other liability, whether in an action of contract, tort or otherwise,
+arising from, out of or in connection with the software or the use or
+other dealings in the software.
