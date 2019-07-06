@@ -25,12 +25,20 @@ copyable result of source code having been acted upon by
 Open
 required to be provided to the user.
 
+APPLICATION
+This License must either in the directory and/or parent directory of the 
+source code or the following must be in which ever source code documents
+the source code modifiers or creators wish to have this license applied
+to
+        This is Free Software under the FPL.
+
 CONDITIONS
-When a binary is distributed, and if and only if any of its corresponding source code
-has This License applied to it, the source code with This License applied to it
-must be open. Any other source code is not required to be open. If the source
-code has been modified by someone who received the source code, then the
-conditions of This License still apply.
+When a binary is distributed, and if and only if any of its corresponding source
+code has This License applied to it, the source code with This License applied to
+it must be open. Any other source code is not required to be open. If the source
+code is received by someone and that someone has modified/not modified the source
+code and has produced a corresponding binary from it and has distributed it,
+the conditions of This License still apply to the source code that they modified.
 
 PERMISSIONS
 Permission is hereby granted to do what you will with the source code under This
@@ -51,4 +59,4 @@ merchantability, fitness for a particular purpose and noninfringement.
 in no event shall the authors be liable for any claim, damages or
 other liability, whether in an action of contract, tort or otherwise,
 arising from, out of or in connection with the software or the use or
-other dealings in the software.
+other dealings in the software. 
